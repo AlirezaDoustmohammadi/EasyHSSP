@@ -19,3 +19,6 @@ Input of <b>EasyHSSP</b> is the proteins with similar structure chosen
 by a user and out puts of that is bar charts showing entropy of each position, probability of each
 amino acid in each position, and a new 3D structure of a modified protein in which each type of
 amino acid is colored differently, entropy and hydrophilicity of each position is shown.
+</br>
+This type of analyses could be efficient in predicting mutants in a protein sequence; the mutants
+can cause many types of diseases by which sometimes an epidemy occurs.
