@@ -1,6 +1,5 @@
 # EasyHSSP
 A web-based tool for analyzing and visualizing HSSP files
-
 </br></br>
 Tremendous development of protein, peptides, and nucleotides sequencing tools leads to high
 volume of protein sequencing stored in data bases like Uniprot and NCBI. High volume of protein
