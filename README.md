@@ -22,3 +22,5 @@ amino acid is colored differently, entropy and hydrophilicity of each position i
 </br></br>
 This type of analyses could be efficient in predicting mutants in a protein sequence; the mutants
 can cause many types of diseases by which sometimes an epidemy occurs.
+</br></br>
+Access to this web-based tool: http://bioinf.modares.ac.ir/software/EasyHSSP/
