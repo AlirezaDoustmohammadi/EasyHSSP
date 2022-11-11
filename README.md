@@ -10,4 +10,5 @@ files.
 <b>Output of HSSP</b> contains wide variety of information including entropy and amino acids variation
 in each amino acids positions in proteins by which protein engineering can be facilitated in terms
 of which position is a better candidate to be mutated or which amino acid is an appropriate
-candidate to be changed.
+candidate to be changed. In a meanwhile, HSSP leaves a gap that this tool address that. The gap
+is interpreting HSSP output is hard enough to make protein engineers reluctant to use that. In this
