@@ -12,3 +12,10 @@ in each amino acids positions in proteins by which protein engineering can be fa
 of which position is a better candidate to be mutated or which amino acid is an appropriate
 candidate to be changed. In a meanwhile, HSSP leaves a gap that this tool address that. The gap
 is interpreting HSSP output is hard enough to make protein engineers reluctant to use that.
+</br></br>
+<b>EasyHSSP</b> makes interpreting the outputs of HSSP much easier. 
+</br>
+Input of <b>EasyHSSP</b> is the proteins with similar structure chosen
+by a user and out puts of that is bar charts showing entropy of each position, probability of each
+amino acid in each position, and a new 3D structure of a modified protein in which each type of
+amino acid is colored differently, entropy and hydrophilicity of each position is shown.
