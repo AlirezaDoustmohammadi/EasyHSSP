@@ -24,3 +24,5 @@ This type of analyses could be efficient in predicting mutants in a protein sequ
 can cause many types of diseases by which sometimes an epidemy occurs.
 </br></br>
 Access to this web-based tool: http://bioinf.modares.ac.ir/software/EasyHSSP/
+</br>
+more details about this tool: https://parseh.modares.ac.ir/thesis/10003351
