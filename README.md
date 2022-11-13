@@ -1,4 +1,5 @@
 # EasyHSSP
+<p align="justify">
 A web-based tool for analyzing and visualizing HSSP files
 </br></br>
 Tremendous development of protein, peptides, and nucleotides sequencing tools leads to high
@@ -26,3 +27,5 @@ can cause many types of diseases by which sometimes an epidemy occurs.
 Access to this web-based tool: http://bioinf.modares.ac.ir/software/EasyHSSP/
 </br>
 more details about this tool: https://parseh.modares.ac.ir/thesis/10003351
+
+</p>
